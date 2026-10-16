@@ -1,0 +1,6 @@
+{
+  "name": "Shankar Restaurant - Royal Indian Dining",
+  "description": "Authentic Indian fine dining, lightning-fast mobile ordering, royal table reservations, and geofenced kitchen verification.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
